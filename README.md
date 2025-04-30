@@ -50,8 +50,7 @@ The front end of StudyNotion is built with ReactJS, offering a dynamic and respo
 Front-end tools and technologies include ReactJS, CSS, Tailwind CSS, Redux for state management, and VSCode for development.
 Additionally, we use some npm packages to add extra functionality to the front end.
 
-[View Live Demo](https://studynotion-ms.vercel.app/)
-![studynotion1](img/StudyNotion.png)
+ 
 
 ---
 
